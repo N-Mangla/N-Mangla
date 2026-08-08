@@ -14,37 +14,31 @@ with **React, TypeScript, Node.js, and Python**
 
 <br />
 
-<img
-  src="https://img.shields.io/badge/Experience-7%2B_Years-EF93C4?style=for-the-badge&labelColor=C75B9B"
-  alt="7+ years of experience"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Focus-Enterprise_SaaS-F8BBD0?style=for-the-badge&labelColor=C75B9B"
-  alt="Enterprise SaaS"
-/>
-&nbsp;
-<img
-  src="https://img.shields.io/badge/Open_to-Relocation-FF69B4?style=for-the-badge&labelColor=C75B9B"
-  alt="Open to relocation"
-/>
+<p align="center">
+  💼 <strong>7+ Years of Experience</strong>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  🏢 <strong>Enterprise SaaS</strong>
+  &nbsp;&nbsp; • &nbsp;&nbsp;
+  🌍 <strong>Open to Relocation</strong>
+</p>
 
 <br />
-<br />
 
-<a href="https://www.linkedin.com/in/nehamangla/">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-Let's_Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C75B9B"
-    alt="Connect with Neha Mangla on LinkedIn"
-  />
-</a>
-&nbsp;
-<a href="mailto:nehamangla500@gmail.com">
-  <img
-    src="https://img.shields.io/badge/Email-Say_Hello-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C75B9B"
-    alt="Email Neha Mangla"
-  />
-</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nehamangla/">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Let's_Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C75B9B"
+      alt="Connect with Neha Mangla on LinkedIn"
+    />
+  </a>
+  &nbsp;
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nehamangla500@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Email-Say_Hello-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C75B9B"
+      alt="Email Neha Mangla"
+    />
+  </a>
+</p>
 
 </div>
 
