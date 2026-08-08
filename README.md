@@ -155,53 +155,13 @@ with **React, TypeScript, Node.js, and Python**
 </p>
 
 <br />
-
-<h2 align="center">🚀 What I Enjoy Building</h2>
-
-<p align="center">
-  Enterprise SaaS platforms &nbsp;•&nbsp;
-  Data-intensive dashboards &nbsp;•&nbsp;
-  Scheduling workflows
-</p>
-
-<p align="center">
-  Reusable component libraries &nbsp;•&nbsp;
-  Accessible interfaces &nbsp;•&nbsp;
-  Scalable REST APIs
-</p>
-
 <br />
-
-<h2 align="center">💌 Let's Connect</h2>
-
-<p align="center">
-  I'm always happy to connect with engineers, product teams, and organizations
-  building thoughtful digital products.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/nehamangla/">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-Let's_Connect-EF93C4?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=C75B9B"
-      alt="Connect with Neha Mangla on LinkedIn"
-    />
-  </a>
-  &nbsp;
-  <a href="mailto:nehamangla500@gmail.com">
-    <img
-      src="https://img.shields.io/badge/Email-Say_Hello-FF69B4?style=for-the-badge&logo=gmail&logoColor=white&labelColor=C75B9B"
-      alt="Email Neha Mangla"
-    />
-  </a>
-</p>
 
 <p align="center">
   <em>
     Great products begin with thoughtful conversations—feel free to reach out.
   </em>
 </p>
-
-<br />
 
 <p align="center">
   <strong>Thanks for visiting my profile! 🌷</strong>
