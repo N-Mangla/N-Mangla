@@ -55,7 +55,7 @@ with **React, TypeScript, Node.js, and Python**
 <table align="center">
   <tr>
     <td width="65%" valign="top">
-      <h3>Building thoughtful products, one commit at a time.</h3>
+      <h3>Turning complex requirements into intuitive digital products.</h3>
       <p>
         I'm <strong>Neha Mangla</strong>, a Senior Full Stack Engineer from India
         with 7+ years of experience creating scalable, accessible, and
