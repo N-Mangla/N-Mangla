@@ -58,7 +58,7 @@ with **React, TypeScript, Node.js, and NestJS**
       <ul>
         <li>
           💻 Specializing in
-          <strong>React, TypeScript, Node.js, and Python</strong>
+          <strong>React, TypeScript, Node.js, and NestJS</strong>
         </li>
         <li>
           🏗️ Building enterprise SaaS products, dashboards, design systems,
