@@ -10,7 +10,7 @@
 ### Senior Full Stack Engineer
 
 Building scalable enterprise applications and intuitive digital experiences  
-with **React, TypeScript, Node.js, and Python**
+with **React, TypeScript, Node.js, and NestJS**
 
 <br />
 
